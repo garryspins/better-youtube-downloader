@@ -38,3 +38,7 @@ Ive restricted it to Windows only just to avoid any issues, you can remove the r
 
 - The library being used only allows for relatively small downloads at one time ( Just try again after a little bit )
 - Doesnt scale to different resolutions at all
+
+## Finding Issues
+
+If you find an issue please report it, If I still have any interest on working on this then ill fix it :)
